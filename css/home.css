@@ -1,0 +1,32 @@
+*{
+    font-family: Raleway;
+}
+input{
+    width:100px;
+}
+.mdl-card h4{
+    text-transform: capitalize;
+    padding-left: 25px;
+    border-bottom: 1px solid rgb(219, 217, 217);
+}
+.post-display{
+    margin-top: 20px;
+}
+.mdl-card p{
+    text-transform: capitalize;
+    padding-left: 25px;
+}
+.float-Btn{
+   margin-left: 80%;
+   margin-top: 20px;
+   position: fixed;
+}
+
+.mdl-card .edit-Link{
+padding-left: 60px;
+margin-top: 50px;
+}
+.mdl-card .delete-Link{
+margin-left:200px;
+margin-top: -17px;
+}
